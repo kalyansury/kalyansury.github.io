@@ -1,0 +1,29 @@
+title: "Kalyan Sury"
+description: "Software portfolio and notes."
+url: "https://kalyansury.github.io"
+
+# (Optional) helps some themes/plugins
+timezone: "America/New_York"
+
+# Social links
+author:
+  name: "Kalyan Sury"
+  github: "kalyansury"
+  linkedin: "kalyansury"
+  twitter: "kalyansury"
+
+social:
+  github: "https://github.com/kalyansury"
+  linkedin: "https://www.linkedin.com/in/kalyansury/"
+  x: "https://x.com/kalyansury"
+
+# Keep it simple + compatible with GitHub Pages
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - projects.md
+  - about.md
