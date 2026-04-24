@@ -20,6 +20,10 @@ social:
 # Keep it simple + compatible with GitHub Pages
 markdown: kramdown
 theme: minima
+
+minima:
+  skin: auto  # respects the visitor's OS dark/light preference
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

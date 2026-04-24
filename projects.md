@@ -4,10 +4,20 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## Projects
+A selection of public work. More on [GitHub](https://github.com/kalyansury).
 
-_No projects listed yet._
+---
 
-When you’re ready, add entries here like:
+### random
 
-- **Project Name** — short description. [GitHub link](https://github.com/...)
+A public scratch-pad of miscellaneous code snippets and experiments.
+
+**Language:** ASP / .NET &nbsp;·&nbsp; [View on GitHub](https://github.com/kalyansury/random)
+
+---
+
+### kalyansury.github.io
+
+This very site — a Jekyll-based personal portfolio hosted on GitHub Pages.
+
+**Language:** Markdown / Jekyll &nbsp;·&nbsp; [View on GitHub](https://github.com/kalyansury/kalyansury.github.io)

@@ -3,21 +3,25 @@ layout: home
 title: "Home"
 ---
 
-# Kalyan Sury
+## Hi, I'm Kalyan Sury
 
-I’m **Kalyan Sury**. This is my personal site hosted on GitHub Pages.
+Software engineer with experience across the full stack — from backend services to web frontends. I enjoy building things that work well and are easy to reason about.
 
-## Skills (inferred from my repos)
-Based on the languages in my repositories so far:
+Find me on [GitHub](https://github.com/kalyansury) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kalyansury/) &nbsp;·&nbsp; [X / Twitter](https://x.com/kalyansury)
 
-- **Go**
-- **JavaScript**
-- **Java**
-- **ASP / .NET**
+---
 
-> Want this to be based on starred projects instead: export/paste a list of your starred repo URLs and I’ll generate a better “Skills” section.
+## Skills
 
-## Links
-- GitHub: https://github.com/kalyansury
-- LinkedIn: https://www.linkedin.com/in/kalyansury/
-- X: https://x.com/kalyansury
+| Domain | Technologies |
+|--------|--------------|
+| **Languages** | Go · Java · JavaScript · ASP / .NET |
+| **Backend**   | REST APIs · Microservices |
+| **Web**       | HTML · CSS · JavaScript |
+| **Tooling**   | Git · GitHub Actions · Docker |
+
+---
+
+## What I'm Up To
+
+Building projects, exploring new technologies, and writing the occasional note. Check out my [Projects](/projects/) page to see what I've been working on.
